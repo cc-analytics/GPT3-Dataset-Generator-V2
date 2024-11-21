@@ -1,6 +1,7 @@
 streamlit
 streamlit-pills
 openai
+db-dtypes
 
 streamlit-aggrid==0.2.2-2
 
